@@ -15,13 +15,13 @@ Ensure you have the following dependencies installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/your/repository.git](https://github.com/popat694/mysql-backup.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd project-directory
+   cd mysql-backup
    ```
 
 3. Install required npm packages:
